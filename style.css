@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(4, 82, 250);
+    text-align: center;
+}
+img{
+    width: 100px;
+}
+
+main{
+    background-color: rgb(3, 247, 234);
+}
+main p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.hor{
+    width: 500px;
+}
+footer{
+    background-color: rgb(3, 10, 116);
+    color: white;
+}
